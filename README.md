@@ -24,13 +24,3 @@
 </div>
 
 <br/>
-
-**𝙈𝙮 𝙂𝙞𝙩𝙝𝙪𝙗**
-
-<div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jigardeveloper&layout=compact&theme=buefy" alt="" />
- <img src="https://github-readme-stats.vercel.app/api?username=mk965&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&count_private=true&include_all_commits=true" /> 
-</div>
-
-----
-📈 So many friends have visited my github since statistics: ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jigardeveloper.jigardeveloper)
