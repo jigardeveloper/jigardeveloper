@@ -5,7 +5,7 @@
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
 
-- 🏫 I'm Jigar - a dedicated Software Engineer in Peking India.
+- 🏫 I'm Jigar - a dedicated Software Engineer in Rajkot India.
 - 💘 I have a passion for JS/TS, web dev.
 - 🏠 You can know more about me from my homepage: [jigar.me](https://jigarahir.netlify.app/)
 - ❤️ Thank you for visiting my GitHub! Hope we can be friends 😊！
