@@ -11,8 +11,11 @@
 - 🛠️ for freelance work? do reach, <a href="mailto://jigarahir.developer@gmail.com"><img src="https://img.shields.io/badge/email-jigarahir.developer@gmail.com-brightgreen" alt="email" /></a>
 - ❤️ Thank you for visiting my GitHub! Hope we can be friends 😊！
 
+<br/>
+
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
+<a href="https://ko-fi.com/jigarahir" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br/>
 
