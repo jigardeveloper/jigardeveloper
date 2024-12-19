@@ -7,7 +7,7 @@
 
 - 🏫 I'm Jigar - a dedicated Software Engineer in Rajkot India.
 - 💘 I have a passion for JS/TS, web dev.
-- 🏠 You can know more about me from my homepage: [jigar.me](https://jigarahir.netlify.app/)
+- 🏠 You can know more about me from my homepage: [jigar.resume](https://jigarahir.netlify.app/)
 - 🛠️ for freelance work? do reach, <a href="mailto://jigarahir.developer@gmail.com"><img src="https://img.shields.io/badge/email-jigarahir.developer@gmail.com-brightgreen" alt="email" /></a>
 - ❤️ Thank you for visiting my GitHub! Hope we can be friends 😊！
 
