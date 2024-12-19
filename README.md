@@ -1,6 +1,6 @@
 <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> 𝑯𝒊, 𝑴𝒚 𝒏𝒂𝒎𝒆 𝒊𝒔 𝑱𝒊𝒈𝒂𝒓 😄</h2>
 
-<a href="https://www.jigar.info"><img src="https://img.shields.io/badge/🏠 Home-jigar.me-blue" alt="blog"></a>
+<a href="https://www.jigar.info"><img src="https://img.shields.io/badge/🏠 Home-jigar.info-blue" alt="blog"></a>
 <a href="mailto://jigarahir.developer@gmail.com"><img src="https://img.shields.io/badge/email-jigarahir.developer@gmail.com-brightgreen" alt="email" /></a>
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
